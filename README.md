@@ -1,6 +1,5 @@
 ### Hi there 👋
-###I'm a 2nd year CSE student at B.M.S College of Engineering.
----
+I'm a 2nd year CSE student at B.M.S College of Engineering.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sharat-Kizhakel)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Sharat-Kizhakel/Sharat-Kizhakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
